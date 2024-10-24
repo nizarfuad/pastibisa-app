@@ -1,0 +1,8 @@
+.igt-muted {
+    background-color: #E9ECEF !important;
+}
+
+@font-face {
+    font-family: typeWriter;
+    src: url('font/typewriter.ttf');
+  }

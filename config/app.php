@@ -123,4 +123,21 @@ return [
         'store' => env('APP_MAINTENANCE_STORE', 'database'),
     ],
 
+    // 'providers' => [
+    //     /*
+    //     * Package Service Providers...
+    //     */
+    //     Milon\Barcode\BarcodeServiceProvider::class,
+    // ],
+
+    // 'aliases' => [
+    // // ...
+    // 'DNS1D' => Milon\Barcode\Facades\DNS1DFacade::class,
+    // 'DNS2D' => Milon\Barcode\Facades\DNS2DFacade::class,
+    // ]
+
+    // 'aliases' => [
+    //     'Alert' => RealRashid\SweetAlert\Facades\Alert::class,
+    // ],
+
 ];
